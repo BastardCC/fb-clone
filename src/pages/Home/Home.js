@@ -30,7 +30,7 @@ const Home = () => {
     return (
         <Grid container spacing={2} style={{marginTop: 40}}>
           <Grid item xs={3} className={classes.left}>
-            <Left/>ss
+            <Left/>ssss
           </Grid>
           <Grid item xs={6} className={classes.feed}>
             <Feed/>
